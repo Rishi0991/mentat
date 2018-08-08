@@ -21,6 +21,9 @@ path = "../core"
 [dependencies.mentat_db]
 path = "../db"
 
+[dependencies.db_traits]
+path = "../db_traits"
+
 [dependencies.mentat_sql]
 path = "../sql"
 
